@@ -1,7 +1,7 @@
 # Cipher 🔐
 This is a simple Ruby script that can be added to `PATH`, and can encrypt/decrypt files using a single command in the terminal. The script implements Caesar's Cipher, a simple algorithm that should keep the contents of your diary safe from the unwashed hordes who wish to invade your privacy. 
 
-<img src="https://github.com/thePianoKid/cipher/assets/89939656/51eaf399-4dc4-4cb7-8fc9-0d6c40420f49" width="200" />
+<img src="https://github.com/thePianoKid/cipher/assets/89939656/51eaf399-4dc4-4cb7-8fc9-0d6c40420f49" width="400" />
 
 # Installation ✅
 To use this script, you must first have Ruby installed. Great installation instructions can be found [here](https://www.theodinproject.com/lessons/ruby-installing-ruby). 
